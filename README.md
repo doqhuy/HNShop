@@ -1,9 +1,9 @@
 # HNSHOP PROJECT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Made By
-- HUYNH TRUNG NGHIA
-- Phone number: 0869070547
-- Mail: nghiaht0412@gmail.com
+- DO QUOC HUY
+- Phone number: 0933549587
+- Mail: doquochuy19102003@gmail.com
 
 ## Technologies Used
 - Front-End: ASP.NET CORE MVC, Bootstrap.
